@@ -42,5 +42,6 @@ O projeto visa aplicar na prática os conteúdos estudados ao longo do semestre,
 
 ---
 
-## **Observação**
+## **Observações**
 O funcionamento e a demonstração completa do sistema serão apresentados no **vídeo enviado junto ao projeto**, conforme solicitado pelas orientações acadêmicas.
+Foi criado uma conta comunitaria para o grupo durante o desenvolvimento do projeto.
