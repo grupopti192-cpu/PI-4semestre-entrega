@@ -1,7 +1,7 @@
 # Projeto Integrador – 4º Semestre  
 ## Sistema de E-commerce para Farmácias
 
-### **Integrantes**
+### **Integrantes:**
 - Arthur Paulo Rau  
 - Bruno Barbosa de Holanda  
 - Doris Campos Mendonça  
